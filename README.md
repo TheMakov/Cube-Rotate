@@ -9,3 +9,5 @@ A program that is able to rotate any 3D object using C# and Project it onto a 2D
 * PLP.Engine3D deals with all the transformations and culling
 # Requirements
 * .Net 10.0 SDK
+# Preview 
+![3D Cube Rotation Demo](https://github.com/user-attachments/assets/3892e7a1-3785-4de3-b2d5-95be42422493)
